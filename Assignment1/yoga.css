@@ -1,0 +1,18 @@
+body {
+    background-color: #f5f5f5;
+    color: #40407a;
+}
+
+header {
+    color: #40407a;
+    background-color: #80cbc4;
+}
+
+dt {
+    font-weight: bolder;
+}
+
+footer {
+    color: #40407a;
+    background-color: #80cbc4;
+}
